@@ -15,9 +15,9 @@ In Peer-to-Peer lending, there are three main stakeholders: borrowers, lenders a
 
 Firstly, I have done a time series analysis ranging from year 2007 – 2014 about the number of loans taken by borrowers, the amount of their loans and how their Score got affected in this duration. I noticed that since 2009, the loan business increased and climbed up quickly since 2013 and then dropped down at beginning of 2014 while the borrower credit scores constantly dropping over this time. Some states had default rates of more than 30%.
 
-![Screenshot (20)](https://user-images.githubusercontent.com/73714933/100597691-c19b8980-3323-11eb-9a1f-64946edfc693.png){:height="50%" width="50%"}
+![Screenshot (20)](https://user-images.githubusercontent.com/73714933/100597691-c19b8980-3323-11eb-9a1f-64946edfc693.png)
 
-
+![Screenshot (21)](https://user-images.githubusercontent.com/73714933/100597695-c3654d00-3323-11eb-9a1a-c80e18ce21ed.png)
 
 
 Then I have explored the defaulters, reason for defaults, and reason for borrowers to take loans, I found out that the people with $0 income have highest default rates and most defaulters invest in the loan type ‘D’. Breaking down to occupation-wise category, an interesting pattern was found that the college students group ie; students who are enrolled in higher grade studies have more loans, higher borrowers and default rates. While this made sense with $0 income, the sophomore students were amongst the top defaulters and had lower number of loans. 
