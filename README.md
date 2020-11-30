@@ -48,7 +48,6 @@ I first sifted through the dataset and gave a rough thought on which variables s
 \
 I wanted my Tableau story to have a purpose, to show to those who are interested in the facts about the loan data. My focus was on loan borrowers, their occupations and subsequent default rates, their incomes, and what kinds of loan were taken by the borrowers. I got a few amazing feedbacks like mapping state-wise default rate, including the borrowers purpose for loan and some minor spelling mistakes. All these have contributed in improving my visualizations.\
 •	I have used scatter plots to show how much loan amount on different listing categories have changed over the time.\
-\
 •	Line plots to show how much the Score of borrowers has changed over the time.\
 •	Geo Maps to show the default rate in each state.\
 •	For showing the state-wise map of Defaulters and loan trends over time, I have used Multi-select Legends and automatic color pallets because in the dashboard, I want users to be able to select multiple options and see their effect in all the charts.\
@@ -56,9 +55,8 @@ I wanted my Tableau story to have a purpose, to show to those who are interested
 •	In the final Estimate and Actual dashboard I have removed the legends since looking at the X and Y axis Rating(Alpha) is self-explanatory.\
 
 ### Feedbacks:
-\
 
-After completing the first sketch of my Tableau story, I shared it on Udacity Slack group and emailed the link to two of my friends. I received few important feedbacks mentioned below:\
+After completing the first sketch of my Tableau story, I shared it on Udacity Slack group and emailed the link to two of my friends. I received few important feedbacks mentioned below:
 •	Showing state-wise default rate – For this, I created a new numerical variable called Default Rate from Loan Status and mapped with Borrower State, this showed an interesting finding that in states like CA, TX, NY, IL the default rates were quite high with CA having highest defaulters (>700).\
 •	Finding why people borrow money – This was a bit tricky. But from the data dictionary, I found a variable called Listing Category that had reasons for loans. I found out that since 2007 borrowers took most Personal loans which suddenly dropped in 2009. Then since 2009 the most loans borrowers took were for Home Improvement or Business which steadily kept increasing with steady-drop in borrowers’ credit ratings.\
 •	There were also some minor feedbacks on spelling, typos, grammar and chart changes.\
