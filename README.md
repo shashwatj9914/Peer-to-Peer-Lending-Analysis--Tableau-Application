@@ -41,10 +41,11 @@ Lastly, I have looked at the incomes and losses on different loan ratings and in
 ![Screenshot (30)](https://user-images.githubusercontent.com/73714933/100602185-93b94380-3329-11eb-98a7-74e7c765745a.png)
 
 
-Design Decisions:
-I first sifted through the dataset and gave a rough thought on which variables should I be interested in exploring and which were outside the domain of my exploration. I first planned on making another file which would contain the subset of variables I want to explore, but instead opted for using the entire dataset in case I got new ideas midway through my exploration.
-I wanted my Tableau story to have a purpose, to show to those who are interested in the facts about the loan data. My focus was on loan borrowers, their occupations and subsequent default rates, their incomes, and what kinds of loan were taken by the borrowers. I got a few amazing feedbacks like mapping state-wise default rate, including the borrowers purpose for loan and some minor spelling mistakes. All these have contributed in improving my visualizations.
-•	I have used scatter plots to show how much loan amount on different listing categories have changed over the time.
+### Design Decisions:
+
+I first sifted through the dataset and gave a rough thought on which variables should I be interested in exploring and which were outside the domain of my exploration. I first planned on making another file which would contain the subset of variables I want to explore, but instead opted for using the entire dataset in case I got new ideas midway through my exploration.\
+I wanted my Tableau story to have a purpose, to show to those who are interested in the facts about the loan data. My focus was on loan borrowers, their occupations and subsequent default rates, their incomes, and what kinds of loan were taken by the borrowers. I got a few amazing feedbacks like mapping state-wise default rate, including the borrowers purpose for loan and some minor spelling mistakes. All these have contributed in improving my visualizations.\
+•	I have used scatter plots to show how much loan amount on different listing categories have changed over the time.\
 •	Line plots to show how much the Score of borrowers has changed over the time.
 •	Geo Maps to show the default rate in each state.
 •	For showing the state-wise map of Defaulters and loan trends over time, I have used Multi-select Legends and automatic color pallets because in the dashboard, I want users to be able to select multiple options and see their effect in all the charts.
