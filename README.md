@@ -1,20 +1,17 @@
 # Peer-to-Peer-Lending-Analysis--Tableau-Application
-A Story about the Online Peer-to-Peer Loan Business
-Author: Shashwat Jyotishi 	
-Tableau Project: Data Analysis
+## A Story about the Online Peer-to-Peer Loan Business
+## Author: Shashwat Jyotishi 	
+## Tableau Project: Data Analysis
 Visualization: 
 
-About:
+### About:
 Peer-to-Peer lending platform is the one that aims to connect people who need money with those who have the money to invest. In this data analysis project, I have explored the dataset and used Tableau to create my visualizations.
 
-Dataset:
+### Dataset:
 The loan data set contains 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others. The dataset and data-dictionary can be found on below links. 
 
-Summary:
+### Summary:
 In Peer-to-Peer lending, there are three main stakeholders: borrowers, lenders and the company itself. In my Tableau story, I have done exploration on the relationships between these people, what affects borrowers' Score and who defaults the most. Firstly, I have done a time series analysis ranging from year 2007 – 2014 about the number of loans taken by borrowers, the amount of their loans and how their Score got affected in this duration. I noticed that since 2009, the loan business increased and climbed up quickly since 2013 and then dropped down at beginning of 2014 while the borrower credit scores constantly dropping over this time. Some states had default rates of more than 30%.
-
-
-
 
 
 
