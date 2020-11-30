@@ -17,13 +17,17 @@ Firstly, I have done a time series analysis ranging from year 2007 – 2014 abou
 
 ![Screenshot (20)](https://user-images.githubusercontent.com/73714933/100597691-c19b8980-3323-11eb-9a1f-64946edfc693.png)
 
+
 ![Screenshot (21)](https://user-images.githubusercontent.com/73714933/100597695-c3654d00-3323-11eb-9a1a-c80e18ce21ed.png)
+
 
 Then, I have explored the defaulters, reason for defaults, and reason for borrowers to take loans. I found out that the people with $0 income have highest default rates and most defaulters invest in the loan type ‘D’. 
 
 ![Screenshot (23)](https://user-images.githubusercontent.com/73714933/100600458-52c02f80-3327-11eb-9d98-7a634be9ac72.png)
 
+
 ![Screenshot (24)](https://user-images.githubusercontent.com/73714933/100600467-5489f300-3327-11eb-8c93-11cd529647d6.png)
+
 
 ![Screenshot (27)](https://user-images.githubusercontent.com/73714933/100600471-55bb2000-3327-11eb-918f-04006255774e.png)
 
@@ -34,7 +38,7 @@ Breaking down to occupation-wise category, an interesting pattern was found that
 
 Lastly, I have looked at the incomes and losses on different loan ratings and inferred that the ‘HR’ loan rating had the highest loss, even though this type of loan is given to most credit-worthy borrowers. However, looking at the net principal returns over the time I noticed loans 'C' & 'D' had higher losses than other loans and are most risky.
 
-![Screenshot (30)](https://user-images.githubusercontent.com/73714933/100601822-17befb80-3329-11eb-8278-f1db0486fa74.png)
+![Screenshot (30)](https://user-images.githubusercontent.com/73714933/100602185-93b94380-3329-11eb-98a7-74e7c765745a.png)
 
 
 Design Decisions:
