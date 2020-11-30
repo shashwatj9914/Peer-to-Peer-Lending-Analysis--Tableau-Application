@@ -15,7 +15,7 @@ In Peer-to-Peer lending, there are three main stakeholders: borrowers, lenders a
 
 Firstly, I have done a time series analysis ranging from year 2007 – 2014 about the number of loans taken by borrowers, the amount of their loans and how their Score got affected in this duration. I noticed that since 2009, the loan business increased and climbed up quickly since 2013 and then dropped down at beginning of 2014 while the borrower credit scores constantly dropping over this time. Some states had default rates of more than 30%.
 
-![Screenshot (20)](https://user-images.githubusercontent.com/73714933/100597691-c19b8980-3323-11eb-9a1f-64946edfc693.png)
+![Screenshot (20)](https://user-images.githubusercontent.com/73714933/100597691-c19b8980-3323-11eb-9a1f-64946edfc693.png){:height="50%" width="50%"}
 
 
 
