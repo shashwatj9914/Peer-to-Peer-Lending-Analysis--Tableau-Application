@@ -11,7 +11,11 @@ Peer-to-Peer lending platform is the one that aims to connect people who need mo
 The loan data set contains 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others. The dataset and data-dictionary can be found on below links. 
 
 ### Summary:
-In Peer-to-Peer lending, there are three main stakeholders: borrowers, lenders and the company itself. In my Tableau story, I have done exploration on the relationships between these people, what affects borrowers' Score and who defaults the most. Firstly, I have done a time series analysis ranging from year 2007 – 2014 about the number of loans taken by borrowers, the amount of their loans and how their Score got affected in this duration. I noticed that since 2009, the loan business increased and climbed up quickly since 2013 and then dropped down at beginning of 2014 while the borrower credit scores constantly dropping over this time. Some states had default rates of more than 30%.
+In Peer-to-Peer lending, there are three main stakeholders: borrowers, lenders and the company itself. In my Tableau story, I have done exploration on the relationships between these people, what affects borrowers' Score and who defaults the most. 
+
+Firstly, I have done a time series analysis ranging from year 2007 – 2014 about the number of loans taken by borrowers, the amount of their loans and how their Score got affected in this duration. I noticed that since 2009, the loan business increased and climbed up quickly since 2013 and then dropped down at beginning of 2014 while the borrower credit scores constantly dropping over this time. Some states had default rates of more than 30%.
+
+![Screenshot (20)](https://user-images.githubusercontent.com/73714933/100597691-c19b8980-3323-11eb-9a1f-64946edfc693.png)
 
 
 
